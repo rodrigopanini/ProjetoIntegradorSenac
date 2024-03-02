@@ -42,12 +42,12 @@ export default function Cabecalho() {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a className="dropdown-item" href="/Cadastro">
+                  <a className="dropdown-item" href="#">
                     Cadastro
                   </a>
                 </li>
                 <li>
-                  <a className="dropdown-item" href="/">
+                  <a className="dropdown-item" href="#">
                     Home
                   </a>
                 </li>
